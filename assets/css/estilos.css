@@ -14,30 +14,6 @@ header {
   padding: 30px 10px;
   border-bottom: 4px solid #d7ccc8;
 }
-
-.boton-descarga {
-  display: inline-block;
-  background-color: var(--cafe);
-  color: white;
-  padding: 12px 24px;
-  border-radius: 8px;
-  font-weight: 600;
-  text-decoration: none;
-  transition: background-color 0.3s, transform 0.2s;
-  margin: 1rem auto;
-  box-shadow: 0 3px 6px rgba(0,0,0,0.2);
-}
-
-.boton-descarga:hover {
-  background-color: var(--cafe-oscuro);
-  transform: scale(1.05);
-}
-
-.boton-descarga:active {
-  transform: scale(0.97);
-}
-
-
 /* Navegación */
 nav ul {
   list-style: none;
